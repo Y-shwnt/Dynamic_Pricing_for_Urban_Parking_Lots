@@ -95,7 +95,8 @@ Compute Price ➝ JSONL Output ➝ Bokeh/Panel
 
 **Model 2 Visual:**
 
-![Model 2 Visual](outputs/Model2.png)
+![Model 2 Trend](outputs/Model2.png)
+![Model 2 Combined](outputs/Model2_Combined.png)
 
 ---
 
@@ -131,5 +132,15 @@ Compute Price ➝ JSONL Output ➝ Bokeh/Panel
 - [x] Model 2: Demand-based pricing
 - [x] Bokeh-based dashboard visualization
 - [x] HTML/JSONL output export
+
+---
+
+## Future Improvements
+
+- **API Integration** – Stream real-time data via WebSocket or REST.
+- **Smarter Geospatial Logic** – Use GPS data and road network intelligence for improved accuracy.
+- **Advanced Pricing Models** – Integrate machine learning or reinforcement learning for dynamic pricing.
+- **Better Visualizations** – Add interactive dashboards with filters, heatmaps, and drill-down analytics.
+- **Historical Logging** – Maintain historical pricing data for long-term analysis and insights.
 
 ---
