@@ -105,7 +105,7 @@ Compute Price ➝ JSONL Output ➝ Bokeh/Panel
 | ------------------------------------- | ------------------------------------ |
 | `outputs/model1_price_trends.html`    | Lot-wise trends from Model 1         |
 | `outputs/model2_price_trends.html`    | Lot-wise trends from Model 2         |
-| `outputs/model2_combined_price_comparison.html` | Combined trends across lots (Model 2) |
+| `outputs/daily_pricing_comparison.html` | Combined trends across lots (Model 2) |
 
 ---
 
