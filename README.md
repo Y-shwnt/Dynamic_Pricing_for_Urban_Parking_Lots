@@ -69,8 +69,8 @@ Compute Max/Min ➝ Apply Price Formula ➝ JSONL Output ➝ Bokeh/Panel
 
 **Model 1 Visuals:**
 
-![Model 1 Trend](outputs/model1_daily_price_plot.png)
-![Model 1 Combined](outputs/model1_all_lots_price_trend.png)
+![Model 1 Trend](outputs/Model1.png)
+![Model 1 Combined](outputs/Model1_Combined.png)
 
 ---
 
@@ -95,7 +95,7 @@ Compute Price ➝ JSONL Output ➝ Bokeh/Panel
 
 **Model 2 Visual:**
 
-![Model 2 Visual](outputs/model2_daily_price_plot.png)
+![Model 2 Visual](outputs/Model2.png)
 
 ---
 
@@ -111,16 +111,16 @@ Compute Price ➝ JSONL Output ➝ Bokeh/Panel
 
 ## Notebooks Included
 
-- `notebooks/model1_linear_pricing.ipynb`
-- `notebooks/model2_demand_pricing.ipynb`
+- `notebooks/Baseline_Linear_Model.ipynb`
+- `notebooks/Demand_Based_Pricing_Model.ipynb`
 
 ---
 ## CSV Pricing Outputs
 
 | File                  | Description                      |
 |-----------------------|----------------------------------|
-| `outputs/pricing_output_model1.csv`  | Final price output from Model 1 (Linear-Based)   |
-| `outputs/pricing_output_model2.csv`  | Final price output from Model 2 (Demand-Based)   |
+| `outputs/pricing_output_1.csv`  | Final price output from Model 1 (Linear-Based)   |
+| `outputs/pricing_output_2.csv`  | Final price output from Model 2 (Demand-Based)   |
 
 ---
 
